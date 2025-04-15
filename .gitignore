@@ -13,3 +13,4 @@ __pycache__/
 # Generated shaders+weights from SlangPyTraining.
 samples/SlangpyTraining/trained_shaders.cfg
 samples/SlangpyTraining/weights.json
+/.idea
